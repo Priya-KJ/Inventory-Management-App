@@ -1,0 +1,30 @@
+.app {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.add-item,
+.controls {
+    margin-bottom: 20px;
+}
+
+input,
+button {
+    margin-right: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.low-stock {
+    background-color: #ffdddd;
+}
